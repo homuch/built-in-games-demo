@@ -1,0 +1,8 @@
+{
+  "name": "built-in-games-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/homuch/built-in-games-demo.git",
+  "author": "homuch <homu777@gmail.com>",
+  "license": "MIT"
+}
